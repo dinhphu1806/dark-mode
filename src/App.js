@@ -40,6 +40,9 @@ function App() {
           return <Article key={item.id} {...item} />;
         })}
       </section>
+      <secsion> 
+        <span>Không có gì</span>
+        </secsion>
     </main>
   );
 }

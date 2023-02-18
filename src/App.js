@@ -41,7 +41,7 @@ function App() {
         })}
       </section>
       <secsion> 
-        <span>Không có gì</span>
+        <span style={{color: 'fff'}}>Không có gì</span>
         </secsion>
     </main>
   );

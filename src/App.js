@@ -41,8 +41,8 @@ function App() {
         })}
       </section>
       <secsion> 
-        <span style={{color: 'fff'}}>Không có gì</span>
-        </secsion>
+        <span style={{color: 'fff'}}>Không có gì từ từ hãy xóa</span>
+      </secsion>
     </main>
   );
 }
